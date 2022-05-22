@@ -1,0 +1,8 @@
+.text-danger {
+  color: #C62C45 !important;
+}
+.card-img, .img-fluid, .vh-100 {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
